@@ -1,6 +1,6 @@
-# Assignment 6 : Web Crawler
+#Web Crawler
 Chris Camberos
-cacamber@ucsc.edu
+
 
 ## Description:
 Crawler is a web crawler that fetches webpages, saves their HTML content, and scans for URLs to crawl further.
