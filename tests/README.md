@@ -12,7 +12,7 @@ The test data in this folder represents the output of the web crawler as it proc
 
 ### Note on Incomplete Data
 
-Please be aware that not all test files could be uploaded due to technical limitations during the upload process. The files present in this folder are the ones that were successfully uploaded. As a result, the folder may not represent the complete set of crawled data.
+Please be aware that not all test files were uploaded as this is meant to just be an example folder. The files present in this folder are just some files that I uploaded in order to demonstrate what the output of the program is. As a result, the folder may not represent the complete set of crawled data.
 
 ### Purpose of the Test Files
 
