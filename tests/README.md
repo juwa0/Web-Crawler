@@ -1,8 +1,22 @@
-## Tests folder
+# Tests Folder
 
-This folder contains test data that is retrieved upon entering the command "./crawler https://engineering.ucsc.edu/ tests 10"
+This folder contains test data for the **Web Crawler** program, generated when running the following command:
 
-Note that not every file was uploaded as I had trouble uploading the test files, and in the folder are the test files I was able to upload.
+```bash
+./crawler https://engineering.ucsc.edu/ tests 10
+```
 
-Each file should provide an example of what information the crawler is extracting from the website!
+### Overview
+
+The test data in this folder represents the output of the web crawler as it processes the specified website. The crawler fetches and stores webpages, saving the HTML content into files for further analysis.
+
+### Note on Incomplete Data
+
+Please be aware that not all test files could be uploaded due to technical limitations during the upload process. The files present in this folder are the ones that were successfully uploaded. As a result, the folder may not represent the complete set of crawled data.
+
+### Purpose of the Test Files
+
+Each file in this folder provides an example of the type of information that the crawler is able to extract from a website. These test files include the raw HTML content retrieved by the crawler, showcasing the depth and breadth of its crawling capabilities.
+
+If additional test files are needed or if you'd like to generate new data, simply run the web crawler using the command provided above.
 
