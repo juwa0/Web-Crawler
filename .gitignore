@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# Except necessary files
+!.gitignore
+!bag.c
+!bag.h
+!crawler.c
+!crawler.h
+!curl.c
+!curl.h
+!hashtable.c
+!hashtable.h
+!pagedir.c
+!pagedir.h
+!set.c
+!set.h
+!url.c
+!url.h
+!Makefile
+!README.md
